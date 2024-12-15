@@ -1,0 +1,13 @@
+{
+    "name": "Dwayne",
+    "role": "Innkeeper",
+    "traits": {
+      "openness": 0.8,
+      "responsibility": 0.4,
+      "extraversion": 0.9,
+      "agreeableness": 0.3,
+      "neuroticism": 0.2
+    },
+    "backstory": "Dwayne is a charming innkeeper who used to be a traveler but decided to settle down. His inn is known for its vibrant atmosphere and delicious food, but Dave has a bit of a stubborn streak when it comes to bartering prices."
+  }
+  
